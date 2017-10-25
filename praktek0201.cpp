@@ -2,13 +2,13 @@
 using namespace std;
 
 int main(){
-	nilai=Nilai+1;
 	int nilai;
 	int Nilai;
+	nilai=Nilai+1;
 	
 	
 	
 	cout << nilai;
-	cout << 1Nilai;
+	cout << Nilai;
 	
 }
